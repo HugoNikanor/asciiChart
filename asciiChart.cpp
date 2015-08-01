@@ -18,6 +18,8 @@ if(i % 6 == 0)
 	cout<<endl;
 }
 
+cout << endl << "Press enter to continue...";
 getchar();
+
 return EXIT_SUCCESS;
 }
